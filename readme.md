@@ -1,19 +1,33 @@
 # JS deep clone utility
 
+### a simple 0 dependency package which creates and returns a deep-cloned variable.
+
+## Installation
+
+```
+$ npm install deepclonevariable
+
+```
+or
+
+```
+$ yarn add deepclonevariable
+
+```
+
 ## Usage
 
 ```
-$ var clone = require('deepclonevariable');
+const clone = require('deepclonevariable');
 
+const cloned = clone(value);
 
-let cloned = clone(value);
 ```
-
 or in TypeScript / ES Modules
 
 ```
-$ import * as clone from('deepclonevariable');
+import * as clone from 'deepclonevariable';
 
-let cloned = clone(value);
+const cloned = clone(value);
 
 ```
