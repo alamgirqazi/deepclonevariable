@@ -1,0 +1,22 @@
+{
+  "name": "deepclonevariable",
+  "version": "1.0.0",
+  "description": "a simple 0 dependency package which creates and returns a deep-cloned variable.",
+  "main": "src/index.js",
+  "license": "MIT",
+  "repository": "alamgirqazi/alam",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Alamgir Munir Qazi",
+    "email": "alamgirmunirqazi@gmail.com",
+    "url": "https://alamgirqazi.github.io"
+  },
+  "keywords": [
+    "deep-clone",
+    "deep",
+    "clone",
+    "JS"
+  ]
+}
