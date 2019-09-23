@@ -1,10 +1,10 @@
 {
   "name": "deepclonevariable",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "a simple 0 dependency package which creates and returns a deep-cloned variable.",
   "main": "src/index.js",
   "license": "MIT",
-  "repository": "alamgirqazi/alam",
+  "repository": "alamgirqazi/deepclonevariable",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
